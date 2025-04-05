@@ -83,18 +83,6 @@ Each sensor feeds data to the Arduino Uno, which processes the inputs and trigge
 
 ---
 
-## 👨‍💼 Project Team
-
-- **Munesh Kumar** – VGU6PB  
-- **Petra Hédl** – SUX9GX  
-- **Mirna Makhlouf** – X70AKT  
-
-**Instructor**: Dr. Arpad Barsi  
-**Institution**: Budapest University of Technology and Economics  
-**Course**: Construction Information Technology Project
-
----
-
 ## 📎 License
 
 This project is developed for academic purposes and may be reused with proper attribution.
